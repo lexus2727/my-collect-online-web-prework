@@ -14,6 +14,6 @@ while i < collection.length
        new_array
 
 end
- #my_collect(collection) {|i| i.split(" ").first}
+#my_collect(collection) {|i| i.split(" ").first}
 
 
